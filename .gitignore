@@ -1,4 +1,15 @@
-﻿run_setup.php
+﻿# Uploaded user photos - should not be in repo
 uploads/*
 !uploads/.gitkeep
 
+# Environment / config files
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
