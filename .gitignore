@@ -1,0 +1,4 @@
+﻿run_setup.php
+uploads/*
+!uploads/.gitkeep
+
